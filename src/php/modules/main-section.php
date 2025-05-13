@@ -16,5 +16,13 @@
             <div class="title-block__title">СИСТЕМНЫЙ МЕНЕДЖМЕНТ</div>
             <div class="title-block__discr">не просто управление - это архитектура роста</div>
         </div>
+        <div class="social-icon-bock">
+            <div class="social-icon-block__title">Способы для связи:</div>
+            <div class="social-icon-block__icon">
+                <img src="../../img/phone-icon_1920.svg" class="social-icon" alt="Иконка телефона">
+                <img src="../../img/telegram-icon_1920.svg" class="social-icon" alt="Иконка телеграмма">
+                <img src="../../img/mail-icon_1920.svg" class="social-icon" alt="Иконка email">
+                <img src="../../img/vk-icon_1920.svg" class="social-icon" alt="Иконка вовконтакте">
+        </div>
     </div>
 </section>

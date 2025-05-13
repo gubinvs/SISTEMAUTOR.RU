@@ -53,4 +53,25 @@
   font-size: 48px;
   line-height: 50px;
   font-weight: 300;
+}
+
+.social-icon-bock {
+  position: absolute;
+  bottom: 60px;
+  right: 0px;
+  width: 230px;
+}
+
+.social-icon-block__title {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.social-icon-block__icon {
+  display: flex;
+}
+
+.social-icon-block__icon img:not(:last-of-type) {
+  margin-right: 10px;
 }/*# sourceMappingURL=main-section.css.map */
