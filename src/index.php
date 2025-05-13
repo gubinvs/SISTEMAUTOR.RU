@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="https://encomponent.ru/favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="css/sistemautor-style.css" media="all">
-    <meta name="description" content="Системный менеджмент —это про управляемый рост, в котором бизнес становится независимым от людей и обретает внутреннюю устойчивость.">
+    <meta name="description" content="Системный менеджмент — это про управляемый рост, в котором бизнес становится независимым от людей и обретает внутреннюю устойчивость.">
     <title>Системный менеджмент как инструмент для обеспечения роста компаний</title>
 </head>
 

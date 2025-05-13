@@ -1,7 +1,6 @@
 <section class="main-section">
     <div class="container main-section__container">
         <h1 class="h1-min">Систематизация бизнес-процессов через разработку регламентов и инструкций</h1>
-        <img src="../../img/logo_1920.svg" class="main-section__logo-img" alt="Логотип компании в виде букв К и Э с гаячным ключем внутри, надпись внизу компоненты энергии">
         <img src="../../img/main-section-img_1920.png" alt="Главная картинка страницы, где рука на синем фоне нажимает на блок в структуре компании на блок генерального директора, тем самый включая его в работу и запуская систему">
         <img src="../../img/soply_1920.png" class="main-section__abstract-img" alt="Абстрактная материя">
         <div class="main-section__title-block">
