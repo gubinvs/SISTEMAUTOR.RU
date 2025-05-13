@@ -13,7 +13,7 @@
 
 <body>
     <!--Подключение header-->
-    <?php ?>
+    
     <!--Основная секция страницы-->
     <main>
         <?php include "php/modules/main-section.php" ?>
