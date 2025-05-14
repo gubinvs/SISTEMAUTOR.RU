@@ -1,3 +1,5 @@
+@import "../variables.scss";
+
 .main-section__container {
     position: relative;
 }
@@ -26,13 +28,6 @@
     margin-bottom: 60px; 
 }
 
-.line-slogan {
-    width: 100px;
-    height: 20px;
-    border-radius: 10px;
-    color: $palitra_4;
-}
-
 .slogan {
     font-size: 24px;
     font-weight: 400;
@@ -57,10 +52,9 @@
 
 .title-block__discr {
     width: 670px;
-    font-size: 48px;
-    line-height: 50px;
-    font-weight: 300;
-    color: $palitra_7;
+    font-size: 38px;
+    line-height: 42px;
+    font-weight: 200;
 }
 
 .social-icon-bock {
