@@ -12136,6 +12136,13 @@ body {
   margin-bottom: 60px;
 }
 
+.line-slogan {
+  width: 100px;
+  height: 20px;
+  border-radius: 10px;
+  color: #F6CC79;
+}
+
 .slogan {
   font-size: 24px;
   font-weight: 400;
@@ -12154,7 +12161,8 @@ body {
 .title-block__title {
   font-size: 48px;
   font-weight: 800;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+  color: #0E1036;
 }
 
 .title-block__discr {
@@ -12162,6 +12170,7 @@ body {
   font-size: 48px;
   line-height: 50px;
   font-weight: 300;
+  color: #74858E;
 }
 
 .social-icon-bock {
@@ -12175,6 +12184,7 @@ body {
   font-size: 20px;
   font-weight: 400;
   margin-bottom: 10px;
+  color: #74858E;
 }
 
 .social-icon-block__icon {
