@@ -5,7 +5,7 @@
         <img src="../../img/soply_1920.png" class="main-section__abstract-img" alt="Абстрактная материя">
         <div class="main-section__title-block">
             <div class="main-section__slogan-block">
-                <div class="slogan">Настраиваем управление — как бизнес-инструмент</div>
+                <div class="slogan">Настраиваю управление — как бизнес-инструмент</div>
                 <div class="cirkul-block">
                     <img src="../../img/ellipse_1.png" alt="Синяя точка" class="cirkul_1">
                     <img src="../../img/ellipse_2.png" alt="Красная точка" class="cirkul_2">
