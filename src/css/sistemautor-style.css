@@ -13657,6 +13657,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  border: 1px solid red;
 }
 
 .main-section__logo-img {
@@ -13734,4 +13735,30 @@ body {
   margin-right: 10px;
 }
 
+@media only screen and (max-width: 1280px) {
+  .main-section__title-block {
+    top: 300px;
+    left: 360px;
+    width: 640px;
+  }
+
+  .main-section__slogan-block {
+    width: 626px;
+    margin-bottom: 60px;
+  }
+
+  .slogan {
+    font-size: 22px;
+  }
+
+  .title-block__title {
+    font-size: 42px;
+    margin-bottom: 0px;
+  }
+
+  .title-block__discr {
+    width: 640px;
+    font-size: 38px;
+  }
+}
 /*# sourceMappingURL=sistemautor-style.css.map */
