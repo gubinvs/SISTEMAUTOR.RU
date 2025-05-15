@@ -2,7 +2,7 @@
     <div class="container main-section__container">
         <h1 class="h1-min">Систематизация бизнес-процессов через разработку регламентов и инструкций</h1>
         <picture>
-            <source srcset="../../img/main-section-img_1920.png" media="(min-width: 1281px)">
+            <source srcset="../../img/main-section-img_1280.png" media="(min-width: 1281px)">
             <source srcset="../../img/main-section-img_1920.png" media="(max-width: 1280px) and (min-width: 1025px)">
             <source srcset="../../img/main-section-img_1920.png" media="(max-width: 1024px) and (min-width: 961px)">
             <source srcset="../../img/main-section-img_1920.png" media="(max-width: 960px)">
