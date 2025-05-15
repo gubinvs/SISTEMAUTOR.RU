@@ -2,6 +2,10 @@
 
 .main-section__container {
     position: relative;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .main-section__logo-img {
@@ -12,8 +16,8 @@
 
 .main-section__abstract-img {
     position: absolute;
-    top: -10px;
-    right: -100px;
+    top: -22px;
+    right: -64px;
 }
 
 .main-section__title-block {
