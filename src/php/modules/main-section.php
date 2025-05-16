@@ -10,7 +10,8 @@
         </picture>
         <picture>
             <source srcset="../../img/../../img/soply_1024.png" media="(max-width: 1024px) and (min-width: 801px)">
-            <source srcset="../../img/../../img/soply_1024.png" media="(max-width: 800px)">
+            <source srcset="../../img/../../img/soply_1024.png" media="(max-width: 800px) and (min-width: 641px)">
+            <source srcset="../../img/../../img/soply_640.png" media="(max-width: 640px)">
             <img src="../../img/soply_1920.png" class="main-section__abstract-img" alt="Абстрактная материя">
         </picture>
         <div class="main-section__title-block">
