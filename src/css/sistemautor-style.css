@@ -13657,7 +13657,6 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  border: 1px solid red;
 }
 
 .main-section__logo-img {
