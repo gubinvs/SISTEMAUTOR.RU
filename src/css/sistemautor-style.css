@@ -13657,6 +13657,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  border: 1px solid red;
 }
 
 .main-section__logo-img {
@@ -13673,6 +13674,9 @@ body {
 
 .main-section__title-block {
   position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   top: 300px;
   left: 480px;
   width: 739px;
@@ -13710,13 +13714,11 @@ body {
   font-size: 38px;
   line-height: 42px;
   font-weight: 200;
+  margin-bottom: 180px;
 }
 
 .social-icon-bock {
-  position: absolute;
-  bottom: 60px;
-  right: 0px;
-  width: 230px;
+  padding-left: 550px;
 }
 
 .social-icon-block__title {
@@ -13758,6 +13760,11 @@ body {
   .title-block__discr {
     width: 640px;
     font-size: 38px;
+    margin-bottom: 75px;
+  }
+
+  .social-icon-bock {
+    padding-left: 400px;
   }
 }
 @media only screen and (max-width: 1024px) {
@@ -13788,6 +13795,11 @@ body {
   .title-block__discr {
     width: 510px;
     font-size: 32px;
+    margin-bottom: 70px;
+  }
+
+  .social-icon-bock {
+    padding-left: 340px;
   }
 
   .social-icon-block__title {
@@ -13828,20 +13840,15 @@ body {
     width: 300px;
     font-size: 24px;
     line-height: 30px;
-  }
-
-  .cirkul_1 {
-    width: 20px;
-    height: 20px;
+    margin-bottom: 40px;
   }
 
   .social-icon-bock {
-    bottom: 24px;
-    right: -70px;
+    padding-left: 240px;
   }
 
   .social-icon-block__title {
-    font-size: 16px;
+    font-size: 14px;
     margin-bottom: 8px;
   }
 
