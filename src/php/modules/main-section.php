@@ -3,11 +3,15 @@
         <h1 class="h1-min">Систематизация бизнес-процессов через разработку регламентов и инструкций</h1>
         <picture>
             <source srcset="../../img/main-section-img_1280.png" media="(max-width: 1280px) and (min-width: 1025px)">
-            <source srcset="../../img/main-section-img_1920.png" media="(max-width: 1024px) and (min-width: 961px)">
-            <source srcset="../../img/main-section-img_1920.png" media="(max-width: 960px)">
+            <source srcset="../../img/main-section-img_1024.png" media="(max-width: 1024px) and (min-width: 800px)">
+            <source srcset="../../img/main-section-img_800.png" media="(max-width: 800px)">
             <img src="../../img/main-section-img_1920.png" alt="Главная картинка страницы, где рука на синем фоне нажимает на блок в структуре компании на блок генерального директора, тем самый включая его в работу и запуская систему">
         </picture>
-        <img src="../../img/soply_1920.png" class="main-section__abstract-img" alt="Абстрактная материя">
+        <picture>
+            <source srcset="../../img/../../img/soply_1024.png" media="(max-width: 1024px) and (min-width: 801px)">
+            <source srcset="../../img/../../img/soply_1024.png" media="(max-width: 800px)">
+            <img src="../../img/soply_1920.png" class="main-section__abstract-img" alt="Абстрактная материя">
+        </picture>
         <div class="main-section__title-block">
             <div class="main-section__slogan-block">
                 <div class="slogan">Настраиваю управление — как бизнес-инструмент</div>

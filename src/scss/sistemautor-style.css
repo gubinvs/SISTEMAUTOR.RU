@@ -12213,4 +12213,77 @@ body {
     width: 640px;
     font-size: 38px;
   }
+}
+@media only screen and (max-width: 1024px) {
+  .main-section__title-block {
+    top: 195px;
+    left: 290px;
+    width: 510px;
+  }
+  .main-section__abstract-img {
+    top: -4px;
+    right: -54px;
+  }
+  .main-section__slogan-block {
+    width: 476px;
+    margin-bottom: 40px;
+  }
+  .slogan {
+    font-size: 18px;
+  }
+  .title-block__title {
+    font-size: 32px;
+  }
+  .title-block__discr {
+    width: 510px;
+    font-size: 32px;
+  }
+  .social-icon-block__title {
+    font-size: 16px;
+  }
+  .social-icon {
+    width: 30px;
+    height: 30px;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .main-section__title-block {
+    top: 120px;
+    left: 240px;
+    width: 413px;
+  }
+  .main-section__abstract-img {
+    top: -4px;
+    right: -54px;
+  }
+  .main-section__slogan-block {
+    width: 369px;
+    margin-bottom: 20px;
+  }
+  .slogan {
+    font-size: 14px;
+  }
+  .title-block__title {
+    font-size: 26px;
+  }
+  .title-block__discr {
+    width: 300px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .cirkul_1 {
+    width: 20px;
+    height: 20px;
+  }
+  .social-icon-bock {
+    bottom: 24px;
+    right: -70px;
+  }
+  .social-icon-block__title {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  .social-icon-block__icon img:not(:last-of-type) {
+    margin-right: 6px;
+  }
 }/*# sourceMappingURL=sistemautor-style.css.map */
