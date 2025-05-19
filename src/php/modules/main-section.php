@@ -1,6 +1,6 @@
-<section class="main-section">
+<section class="main-section"> 
+    <h1 class="h1-min">Систематизация бизнес-процессов через разработку регламентов и инструкций</h1>
     <div class="container main-section__container">
-        <h1 class="h1-min">Систематизация бизнес-процессов через разработку регламентов и инструкций</h1>
         <picture>
             <source srcset="../../img/main-section-img_1280.png" media="(max-width: 1280px) and (min-width: 1025px)">
             <source srcset="../../img/main-section-img_1024.png" media="(max-width: 1024px) and (min-width: 801px)">

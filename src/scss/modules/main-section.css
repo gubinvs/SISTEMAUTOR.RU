@@ -3,6 +3,8 @@
   position: relative;
   display: flex;
   justify-content: center;
+  align-items: center;
+  height: 100%;
 }
 
 .main-section__logo-img {
@@ -203,7 +205,7 @@
   }
   .main-section__abstract-img {
     top: 0px;
-    right: 18px;
+    right: -50px;
   }
   .main-section__title-block {
     position: static;
