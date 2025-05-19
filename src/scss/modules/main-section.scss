@@ -23,13 +23,9 @@
 }
 
 .main-section__title-block {
-    // position: absolute;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    // top: 300px;
-    // left: 480px;
-    width: 739px;
 }
 
 .main-section__slogan-block {
@@ -64,7 +60,7 @@
     font-size: 38px;
     line-height: 42px;
     font-weight: 200;
-    margin-bottom: 180px;
+    margin-bottom: 20px;
 }
 
 .social-icon-bock {

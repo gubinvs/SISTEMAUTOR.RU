@@ -12136,7 +12136,6 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 739px;
 }
 
 .main-section__slogan-block {
@@ -12171,7 +12170,7 @@ body {
   font-size: 38px;
   line-height: 42px;
   font-weight: 200;
-  margin-bottom: 180px;
+  margin-bottom: 20px;
 }
 
 .social-icon-bock {
