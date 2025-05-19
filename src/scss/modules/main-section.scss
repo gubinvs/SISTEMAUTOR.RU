@@ -245,9 +245,17 @@
 
     .main-section__title-block {
         position: static;
-        width: 413px;
+        width: 100%;
     }
 
+    .social-icon-bock {
+        padding-left: 320px;
+        width: 458px;
+    }
+
+    .social-icon-block__icon {
+        justify-content: flex-end;
+    }
 
 
 }
