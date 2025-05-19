@@ -13629,6 +13629,7 @@ body {
 
 .container {
   width: 1280px;
+  border: 1px solid greenyellow;
 }
 
 @media only screen and (max-width: 1280px) {
@@ -13657,7 +13658,6 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  border: 1px solid red;
 }
 
 .main-section__logo-img {
