@@ -6,7 +6,7 @@
             <source srcset="../../img/main-section-img_1024.png" media="(max-width: 1024px) and (min-width: 801px)">
             <source srcset="../../img/main-section-img_800.png" media="(max-width: 800px) and (min-width: 641px)">
             <source srcset="../../img/main-section-img_640.png" media="(max-width: 640px)">
-            <img src="../../img/main-section-img_1920.png" alt="Главная картинка страницы, где рука на синем фоне нажимает на блок в структуре компании на блок генерального директора, тем самый включая его в работу и запуская систему">
+            <img src="../../img/main-section-img_1920.png" class="main-section__main-img" alt="Главная картинка страницы, где рука на синем фоне нажимает на блок в структуре компании на блок генерального директора, тем самый включая его в работу и запуская систему">
         </picture>
         <picture>
             <source srcset="../../img/../../img/soply_1024.png" media="(max-width: 1024px) and (min-width: 801px)">
