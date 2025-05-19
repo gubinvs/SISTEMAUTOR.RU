@@ -5,6 +5,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  border: 1px solid red;
 }
 
 .main-section__logo-img {
@@ -193,7 +194,8 @@
 }
 @media only screen and (max-width: 640px) {
   .main-section__container {
-    height: 380px;
+    position: inherit;
+    flex-direction: column;
   }
   .main-section__title-block {
     top: 120px;
