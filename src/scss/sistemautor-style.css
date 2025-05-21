@@ -107,6 +107,10 @@ body {
   color: #0E1036;
 }
 
+section {
+  margin-bottom: 130px;
+}
+
 .container {
   width: 1280px;
   margin-left: auto;
@@ -352,4 +356,26 @@ body {
   .social-icon-block__icon {
     justify-content: flex-end;
   }
+}
+.signs-section {
+  padding-top: 60px;
+  padding-bottom: 120px;
+  background-color: #345582;
+}
+
+.signs-section__container {
+  position: relative;
+}
+
+.drop {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.h2-section-title {
+  font-size: 48px;
+  font-weight: 600;
+  color: #EDF4FE;
+  margin-bottom: 6px;
 }/*# sourceMappingURL=sistemautor-style.css.map */

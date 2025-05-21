@@ -8,6 +8,10 @@ body {
     color: $palitra_5;
 }
 
+section {
+  margin-bottom: 130px;
+}
+
 
 .container {
     width: 1280px;
@@ -46,6 +50,17 @@ body {
 
 
 @import "modules/main-section.scss";
+@import "modules/signs-section.scss";
+
+
+
+
+
+
+
+
+
+
 
 
 

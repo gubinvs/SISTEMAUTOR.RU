@@ -1,0 +1,22 @@
+.signs-section {
+  padding-top: 60px;
+  padding-bottom: 120px;
+  background-color: #345582;
+}
+
+.signs-section__container {
+  position: relative;
+}
+
+.drop {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.h2-section-title {
+  font-size: 48px;
+  font-weight: 600;
+  color: #EDF4FE;
+  margin-bottom: 6px;
+}/*# sourceMappingURL=signs-section.css.map */

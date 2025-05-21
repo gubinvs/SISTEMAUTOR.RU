@@ -16,7 +16,10 @@
     
     <!--Основная секция страницы-->
     <main>
-        <?php include "php/modules/main-section.php" ?>
+        <?php 
+            include "php/modules/main-section.php";
+            include "php/modules/signs-section.php";
+        ?>
     </main>
     <!--Подключение footer-->
  
