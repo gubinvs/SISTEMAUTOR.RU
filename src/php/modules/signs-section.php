@@ -9,6 +9,24 @@
                 <img src="../../img/ellipse_3.png" alt="Желтая точка" class="cirkul_3">
             </div>
         </div>
-        
+        <div class="signs-check-block">
+            <div class="signs-check-block__one-block">
+                <ul class="signs-check-list">
+                    <li class="signs-check__item">В компании есть “Ключевые люди”</li>
+                    <li class="signs-check__item">Одинаковые задачи решаются по-разному</li>
+                    <li class="signs-check__item">Используются выражения: «Это не моя работа»</li>
+                </ul>
+                <div class="signs-check-block__slogan_1">Признание проблемы - первый шаг к ее решению!</div>
+            </div>
+            <div class="signs-check-block__second-block">
+                <div class="signs-check-block__slogan_2">Несистемный подход к управлению тормозит развитие, делает бизнес уязвимым и неспособным к масштабированию.</div>
+                <ul class="signs-check-list signs-check-list_secod-block">
+                    <li class="signs-check__item">Срыв сроков “нормальная ситуация”</li>
+                    <li class="signs-check__item">Каждый отдел - “отдельное государство”</li>
+                    <li class="signs-check__item">Почему так сделал? Я привык так делать! Слышали?</li>
+                </ul>
+            </div>
+        </div>
+        <div class="drop drop__bottom"></div>
     </div>
 </section>

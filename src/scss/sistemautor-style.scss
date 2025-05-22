@@ -17,8 +17,9 @@ section {
     width: 1280px;
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid red;
+    //border: 1px solid red;
 }
+
 
 
 @media only screen and (max-width: 1280px) {
@@ -45,12 +46,15 @@ section {
   }
 }
 
-
-
-
-
 @import "modules/main-section.scss";
 @import "modules/signs-section.scss";
+
+
+
+
+
+
+
 
 
 
