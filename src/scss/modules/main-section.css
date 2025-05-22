@@ -151,6 +151,9 @@
   }
 }
 @media only screen and (max-width: 800px) {
+  .main-section {
+    margin-bottom: 80px;
+  }
   .main-section__container {
     height: 430px;
   }
@@ -191,6 +194,9 @@
   }
 }
 @media only screen and (max-width: 640px) {
+  .main-section {
+    margin-bottom: 0px;
+  }
   .main-section__container {
     position: static;
     flex-direction: column;
@@ -211,6 +217,7 @@
     width: 100%;
   }
   .social-icon-bock {
+    display: none;
     padding-left: 320px;
     width: 458px;
   }
