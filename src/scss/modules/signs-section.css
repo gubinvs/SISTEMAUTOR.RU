@@ -90,4 +90,38 @@
   left: 0px;
   bottom: 30px;
   width: 340px;
+}
+
+@media only screen and (max-width: 1280px) {
+  .signs-section {
+    padding-top: 40px;
+  }
+  .drop {
+    top: 15px;
+    width: 405px;
+  }
+  .h2-section-title {
+    font-size: 40px;
+  }
+  .signs-check__item {
+    width: 575px;
+    height: 80px;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .signs-check-block__slogan_1 {
+    width: 382px;
+    font-size: 34px;
+  }
+  .signs-check-block__slogan_2 {
+    width: 382px;
+    font-size: 22px;
+  }
+  .drop__bottom {
+    top: inherit;
+    right: inherit;
+    left: 0px;
+    bottom: 30px;
+    width: 320px;
+  }
 }/*# sourceMappingURL=signs-section.css.map */
