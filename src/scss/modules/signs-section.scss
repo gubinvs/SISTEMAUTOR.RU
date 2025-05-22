@@ -12,13 +12,20 @@
 
 .drop {
     position: absolute;
-    top: 0px;
+    top: 20px;
     right: 0px;
+    width: 650px;
+    height: 20px;
+    border-radius: 4px;
+    background-color: $palitra_3;
+    z-index: 0;
 }
 
 .h2-section-title {
+    position: relative;
     font-size: 48px;
     font-weight: 600;
     color: $palitra_1;
     margin-bottom: 6px;
+    z-index: 1;
 }

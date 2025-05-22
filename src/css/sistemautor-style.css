@@ -115,6 +115,7 @@ section {
   width: 1280px;
   margin-left: auto;
   margin-right: auto;
+  border: 1px solid red;
 }
 
 @media only screen and (max-width: 1280px) {
@@ -158,7 +159,7 @@ section {
 }
 
 .main-section__main-img {
-  margin-right: 20px;
+  margin-right: 60px;
 }
 
 .main-section__title-block {
@@ -398,15 +399,22 @@ section {
 
 .drop {
   position: absolute;
-  top: 0px;
+  top: 20px;
   right: 0px;
+  width: 650px;
+  height: 20px;
+  border-radius: 4px;
+  background-color: #E0643F;
+  z-index: 0;
 }
 
 .h2-section-title {
+  position: relative;
   font-size: 48px;
   font-weight: 600;
   color: #EDF4FE;
   margin-bottom: 6px;
+  z-index: 1;
 }
 
 /*# sourceMappingURL=sistemautor-style.css.map */

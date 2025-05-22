@@ -10,13 +10,20 @@
 
 .drop {
   position: absolute;
-  top: 0px;
+  top: 20px;
   right: 0px;
+  width: 650px;
+  height: 20px;
+  border-radius: 4px;
+  background-color: #E0643F;
+  z-index: 0;
 }
 
 .h2-section-title {
+  position: relative;
   font-size: 48px;
   font-weight: 600;
   color: #EDF4FE;
   margin-bottom: 6px;
+  z-index: 1;
 }/*# sourceMappingURL=signs-section.css.map */

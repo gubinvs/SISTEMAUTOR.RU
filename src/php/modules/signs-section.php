@@ -1,6 +1,6 @@
 <section class="signs-section">
     <div class="container signs-section__container">
-        <img src="../img/drop_1920-min.png" class="drop" alt="Разноцветная капля">
+        <div class="drop"></div>
         <div class="signs-section__title-block">
            <h2 class="h2-section-title">Признаки несистемного управления</h2>
            <div class="cirkul-block">
