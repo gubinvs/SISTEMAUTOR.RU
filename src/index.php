@@ -8,9 +8,8 @@
   <meta name="description" content="Берем на себя обеспечение материалами и комплектующими. Анализируем цены на рынке, формируем и отправляем заявки на закупку поставщикам. Контролируем своевременные поставки, ведем учет.">
   <link rel="stylesheet" href="css/encomp-nku-project-style.css" media="all">
   <link rel="stylesheet" href="css/style-supply-page.css">
-  <!-- <link rel="icon" href="https://encomponent.ru/favicon.svg" type="image/svg+xml"> -->
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <title>Аутсорсинг задач снабжения</title>
-
 </head>
 
 <body>
@@ -217,12 +216,12 @@
             <div class="fon-h2-block fon-h2-block_feedback-section"></div>
             <div class="h2-ip-title-block__discr">Задайте вопросы специалисту по снабжению и получите на них развернутые ответы</div>
           </div>
-          <form class="feedback-section__form" action="https://encomponent.ru/php/feedback_send.php" method="POST">
+          <form class="feedback-section__form" action="https://sistemautor.ru/php/feedback_send.php" method="POST">
             <input class="feedback-section__input feedback-section__input_name" type="text" placeholder="Ваше имя" name="name" required>
             <input class="feedback-section__input feedback-section__tel" type="tel" placeholder="+7 (999) 999 99 99" name="phone" required>
             <input class="feedback-section__input feedback-section__input_email" type="email" placeholder="Ваш E-mail" name="email" required>
             <div class="check-box">
-              <input class="check-box__input" type="checkbox" name="chekBox" checked required><a href="https://encomponent.ru/pp-page.html" target="blank">
+              <input class="check-box__input" type="checkbox" name="chekBox" checked required><a href="https://sistemautor.ru/pp-page.html" target="blank">
                 <div class="check-box__pp-page">Даю согласие на обработку персональных данных. </div>
               </a>
             </div>
