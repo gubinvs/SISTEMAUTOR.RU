@@ -23,7 +23,7 @@
                 <ul class="signs-check-list signs-check-list_secod-block">
                     <li class="signs-check__item">Срыв сроков “нормальная ситуация”</li>
                     <li class="signs-check__item">Каждый отдел - “отдельное государство”</li>
-                    <li class="signs-check__item">Почему так сделал? Я привык так делать! Слышали?</li>
+                    <li class="signs-check__item">Почему так сделал? Я всегдатак делал! Слышали?</li>
                 </ul>
             </div>
         </div>
