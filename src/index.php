@@ -103,12 +103,12 @@
             <div class="fon-h2-block fon-h2-block_feedback-section"></div>
             <div class="h2-ip-title-block__discr">Задайте вопросы специалисту по снабжению и получите на них развернутые ответы</div>
           </div>
-          <form class="feedback-section__form" action="https://encomponent.ru/php/feedback_send.php" method="POST">
+          <form class="feedback-section__form" action="https://gubinvs.ru/php/feedback_send.php" method="POST">
             <input class="feedback-section__input feedback-section__input_name" type="text" placeholder="Ваше имя" name="name" required>
             <input class="feedback-section__input feedback-section__tel" type="tel" placeholder="+7 (999) 999 99 99" name="phone" required>
             <input class="feedback-section__input feedback-section__input_email" type="email" placeholder="Ваш E-mail" name="email" required>
             <div class="check-box">
-              <input class="check-box__input" type="checkbox" name="chekBox" checked required><a href="https://encomponent.ru/pp-page.html" target="blank">
+              <input class="check-box__input" type="checkbox" name="chekBox" checked required><a href="https://gubinvs.ru/pp-page.html" target="blank">
                 <div class="check-box__pp-page">Даю согласие на обработку персональных данных. </div>
               </a>
             </div>
@@ -216,12 +216,12 @@
             <div class="fon-h2-block fon-h2-block_feedback-section"></div>
             <div class="h2-ip-title-block__discr">Задайте вопросы специалисту по снабжению и получите на них развернутые ответы</div>
           </div>
-          <form class="feedback-section__form" action="https://sistemautor.ru/php/feedback_send.php" method="POST">
+          <form class="feedback-section__form" action="https://gubinvs.ru/php/feedback_send.php" method="POST">
             <input class="feedback-section__input feedback-section__input_name" type="text" placeholder="Ваше имя" name="name" required>
             <input class="feedback-section__input feedback-section__tel" type="tel" placeholder="+7 (999) 999 99 99" name="phone" required>
             <input class="feedback-section__input feedback-section__input_email" type="email" placeholder="Ваш E-mail" name="email" required>
             <div class="check-box">
-              <input class="check-box__input" type="checkbox" name="chekBox" checked required><a href="https://sistemautor.ru/pp-page.html" target="blank">
+              <input class="check-box__input" type="checkbox" name="chekBox" checked required><a href="https://gubinvs.ru/pp-page.html" target="blank">
                 <div class="check-box__pp-page">Даю согласие на обработку персональных данных. </div>
               </a>
             </div>
@@ -315,7 +315,7 @@
           <div class="getup"></div>
           <h3 class="ip-advertising__title">Помогаем систематизировать процесс закупок</h3>
           <div class="ip-advertising__discr">Единым инфопространством для всех участников процесса</div>
-          <form action="https://supply.sistemautor.ru">
+          <form action="https://supply.gubinvs.ru">
             <button class="button-offer">Сервис для снабженца</button>
           </form>
         </div><img class="ip-advertising_img" src="img/snab-page-img/ip-advertising_img_1920.svg" alt="Мужчина и женьщина стоя на складе смтрят в ноутбук">
@@ -385,17 +385,17 @@
       </div>
     </section>
     <section class="ip-info-section">
-      <h4 class="h1__visually">приходящий снабженец</h4>
+      <h4 class="h1__visually">Снабженец на удаленке</h4>
       <div class="container ip-info-container">
         <div class="content-block-section">
           <div class="ip-info-discr">
-            Берем на себя рутину обеспечения потребностей в материалах и комплектующих, анализируем цены на рынке, формируем заявки на закупку поставщикам. Отслеживаем процесс и сроки поставок, ведем складской учет, формируем первичные документы.</div>
-        </div>
-        <div class="content-block-section">
-          <div class="ip-info-discr">
-            Общество с ограниченной ответственностью “ПРОМТРАНССЕРВИС” <br> ИНН 5903115410 КПП 590301001 ОГРН 1155958042756
-            <br> Юридический адрес: 614046, г. Пермь, ул. Татьяны Барамзиной, 54 оф. 3.
+            Берем на себя полный цикл обеспечения предприятия материалами и комплектующими, проводим анализ цен и условий на рынке, формируем и направляем заявки на закупку поставщикам, 
+            отслеживаем сроки и этапы поставок; ведем складской учет, оформляем первичные документы.
           </div>
+        </div>
+        <div class="content-block-section" style="width: 400px;"></div>
+        <div class="content-block-section">
+          <div class="ip-info-discr"> ИП ГУБИН ВЛАДИМИР СЕРГЕЕВИЧ <br> ОГРНИП 319595800033673 <br> +7 (922) 354 00 43</div>
         </div>
       </div>
     </section>
