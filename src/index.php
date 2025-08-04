@@ -202,7 +202,7 @@
           <div class="bordercard triptych-card-write__bordercard_white">
             <div class=" bordercard_mini"></div>
             <div class="bordercard_bground bordercard_bground-white">
-              <div class="triptych-card_write__discr">Все операции закупок доступны в личном кабинете</div>
+              <div class="triptych-card_write__discr">Все операции закупок доступны <br>в личном кабинете</div>
             </div>
           </div>
         </div>
