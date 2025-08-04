@@ -328,7 +328,7 @@
           <div class="getup"></div>
           <h3 class="ip-advertising__title">Помогаю систематизировать процесс снабжения</h3>
           <div class="ip-advertising__discr">Единым инфопространством для всех участников процесса</div>
-          <form action="https://supply.encomponent.ru/">
+          <form action="https://supply.gubinvs.ru/">
             <button class="button-offer">Сервис для снабженца</button>
           </form>
         </div><img class="ip-advertising_img" src="img/snab-page-img/ip-advertising_img_1920.svg" alt="Мужчина и женьщина стоя на складе смтрят в ноутбук">
