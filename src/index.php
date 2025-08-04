@@ -366,7 +366,7 @@
     </section>
     <section class="accounting-system-section__square-block">
       <div class="container">
-        <h4 class="h1__visually">компонент энергии</h4>
+        <h4 class="h1__visually">Сервис для анализа предложений поставщиков</h4>
         <div class="square-block">
           <div class="square-block__square square-block__square_accounting-system"></div>
           <div class="square-block__square square-block__square_accounting-system"></div>
