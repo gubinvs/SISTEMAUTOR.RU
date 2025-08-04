@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="css/encomp-nku-project-style.css" media="all">
   <link rel="stylesheet" href="css/style-supply-page.css">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <title>Аутсорсинг задач снабжения</title>
+  <title>Аутсорсинг задач снабжения как средство достижения результата</title>
 </head>
 
 <body>
@@ -19,7 +19,7 @@
       <div class="container ip-top-section__container">
         <div class="content-block content-block_ip-title">
           <h1 class="ip-title">Аутсорсинг снабжения - современный и эффективный инструмент</h1>
-          <div class="dark-description-block">от 35 000 рублей в месяц</div>
+          <div class="dark-description-block">от 95 000 рублей в месяц</div>
           <form action="#feedback">
             <button class="button-offer">Получить предложение</button>
           </form>
@@ -53,16 +53,16 @@
         <div class="content-block">
           <div class="bordercard bordercard_dark" style="border-radius: 20px;">
             <div class="bordercard_dark__container">
-              <div class="bordercard_dark__baner-title">Работаем</div>
+              <div class="bordercard_dark__baner-title">Работаю</div>
               <div class="bordercard_dark__baner-title_disct">с 2013 года</div>
-              <div class="bordercard_dark__disct">Заказчик получает отлаженный и прозрачный процесс закупок.</div>
+              <div class="bordercard_dark__disct">Заказчик получает отлаженный и прозрачный процесс снабжения.</div>
             </div>
           </div>
           <div class="bordercard bordercard_dark bordercard_black" style="border-radius: 20px;">
             <div class="bordercard_dark__container">
-              <div class="bordercard_dark__baner-title">Ведем учет</div>
+              <div class="bordercard_dark__baner-title">Веду учет</div>
               <div class="bordercard_dark__baner-title_disct">в 1С УНФ</div>
-              <div class="bordercard_dark__disct">Формируем первичные документы, оприходования, перемещения и т.д.</div>
+              <div class="bordercard_dark__disct">Формирую первичные документы, оприходования, перемещения и т.д.</div>
             </div>
           </div>
         </div>
@@ -71,26 +71,26 @@
     <section class="ip-task-section">
       <div class="container ip-task-secrion-container">
         <div class="h2-ip-title-block">
-          <h2 class="ip-h2-section-title">Передайте задачи обеспечения потребности <br>в материалах и комплектующих профессионалам</h2>
+          <h2 class="ip-h2-section-title">Передайте задачи обеспечения потребности <br>в материалах и комплектующих профессионалу</h2>
           <div class="fon-h2-block fon-h2-block_red175"> </div>
           <div class="fon-h2-block fon-h2-block_red180"></div>
         </div>
         <div class="task-card-container">
           <div class="task-section-card">
             <div class="task-section-card__title">Контроль</div>
-            <div class="task-section-card__discr">Отслеживаем процесс и сроки поставок комплектующих</div>
+            <div class="task-section-card__discr">Отслеживаю процесс и сроки поставки комплектующих</div>
           </div>
           <div class="task-section-card">
             <div class="task-section-card__title">Анализ</div>
-            <div class="task-section-card__discr">Анализируем цены на рынке, формируем заявки поставщикам</div>
+            <div class="task-section-card__discr">Анализирую цены на рынке, формирую заявки поставщикам</div>
           </div>
           <div class="task-section-card">
             <div class="task-section-card__title">Учет </div>
-            <div class="task-section-card__discr">Ведем складской учет поступивших ТМЦ в 1С УНФ </div>
+            <div class="task-section-card__discr">Веду складской учет поступивших ТМЦ в 1С УНФ </div>
           </div>
           <div class="task-section-card">
             <div class="task-section-card__title">Первичку</div>
-            <div class="task-section-card__discr">Формируем счета, УПД, перемещения, оприходования</div>
+            <div class="task-section-card__discr">Формирую счета, УПД, перемещения, оприходования</div>
           </div>
         </div>
       </div>
@@ -127,7 +127,7 @@
       <div class="container ip-advantages-section-container">
         <div class="h2-ip-title-block h2-ip-title-block_advantages">
           <div class="ip-h2-section-title">
-            <h2 class="title-h2_write-text">Клиенты выбрали нас и перешли на аутсорсинг </h2>
+            <h2 class="title-h2_write-text">Клиенты выбрали меня и перешли на аутсорсинг </h2>
             <p>по следующим причинам:</p>
           </div>
           <div class="fon-h2-block fon-h2-block_advantages"></div>
@@ -135,31 +135,31 @@
         <div class="advantages-card-block">
           <div class="advantages-card">
             <div class="advantages-card__title">Легкий старт</div>
-            <div class="advantages-card__discription">Для старта не нужны вложения, достаточно заключить договор и зарегистрироваться в личном кабинете</div>
+            <div class="advantages-card__discription">Для старта не нужны вложения, достаточно заключить договор на предлагаемые услуги</div>
           </div>
           <div class="advantages-card">
-            <div class="advantages-card__title">Персональный менеджер</div>
-            <div class="advantages-card__discription">Опытный специалист, обеспечит комфортное обслуживание и постоянную поддержку</div>
+            <div class="advantages-card__title">Опытный специалист</div>
+            <div class="advantages-card__discription">Опытный специалист, обеспечивающий комфортное обслуживание и постоянную поддержку</div>
           </div>
           <div class="advantages-card">
-            <div class="advantages-card__title">Гарантируем результат</div>
-            <div class="advantages-card__discription">Мы уверены, что сможем помочь и вы будете довольны сотрудничеством</div>
+            <div class="advantages-card__title">Гарантирую результат</div>
+            <div class="advantages-card__discription">Я уверен, что смогу помочь и вы будете довольны сотрудничеством</div>
           </div>
           <div class="advantages-card">
             <div class="advantages-card__title">Прозрачный процесс</div>
-            <div class="advantages-card__discription"> Предоставляем всю необходимую для принятия решений информацию в полной, своевременной и понятной форме.</div>
+            <div class="advantages-card__discription">Предоставляю всю необходимую для принятия решений информацию в полной, своевременной и понятной форме.</div>
           </div>
           <div class="advantages-card">
             <div class="advantages-card__title">Компетентность</div>
-            <div class="advantages-card__discription">Мы достигаем своего положения на рынке, предлагая эксклюзивные и качественные услуги</div>
+            <div class="advantages-card__discription">Я достигаю своего положения на рынке, предлагая эксклюзивные и качественные услуги</div>
           </div>
           <div class="advantages-card">
             <div class="advantages-card__title">Технологические решения</div>
-            <div class="advantages-card__discription">Мы разрабатываем собственные технологические решения для автоматизации бизнес-процессов</div>
+            <div class="advantages-card__discription">Я разрабатываю собственные технологические решения для автоматизации бизнес-процессов</div>
           </div>
           <div class="advantages-card">
             <div class="advantages-card__title">Готовность к проектам</div>
-            <div class="advantages-card__discription">Мы готовы взяться за проект любой сложности и найти решение для самой фантастической задачи.</div>
+            <div class="advantages-card__discription">Я готов взяться за проект любой сложности и найти решение для самой фантастической задачи.</div>
           </div>
           <div class="advantages-card">
             <div class="advantages-card__title">Комплексный подход</div>
@@ -173,7 +173,7 @@
         <div class="ip-question-container__content">
           <div class="ip-h2-section-title ip-h2-section-title_question ip-h2-section-title_write">Интересно? Давайте общаться дальше!
             <div class="fon-h2-block fon-h2-block_question-section"></div>
-            <h2 class="h2-ip-title-block__discr h2-ip-title-block__discr_blue">В ответ пришлем подробное предложение по сотрудничеству</h2>
+            <h2 class="h2-ip-title-block__discr h2-ip-title-block__discr_blue">В ответ пришлю подробное предложение по сотрудничеству</h2>
           </div>
           <form action="#feedback">
             <button class="button-offer button-offer_question">Получить предложение</button>
@@ -313,7 +313,7 @@
             <div class="square-block__square square-block__square_red"></div>
           </div>
           <div class="getup"></div>
-          <h3 class="ip-advertising__title">Помогаем систематизировать процесс закупок</h3>
+          <h3 class="ip-advertising__title">Помогаю систематизировать процесс снабжения</h3>
           <div class="ip-advertising__discr">Единым инфопространством для всех участников процесса</div>
           <form action="https://supply.encomponent.ru/">
             <button class="button-offer">Сервис для снабженца</button>
@@ -338,12 +338,12 @@
     <section class="accounting-system-section">
       <div class="container accounting-system-container">
         <div class="accounting-system__content-block">
-          <div class="ip-h2-section-title ip-h2-section-title_question ip-h2-section-title_write">Предоставляем систему учета<br>
+          <div class="ip-h2-section-title ip-h2-section-title_question ip-h2-section-title_write">Предоставляю систему учета<br>
             <div class="fon-h2-block fon-h2-block_ accounting-system"></div>
           </div>
           <h2 class="blue-h2">1С УНФ в подарок</h2>
-          <div class="h2-ip-title-block__discr h2-ip-title-block__discr_blue h2-ip-title-block__discr_accounting-system">формируем первичные документы, оприходования, перемещения, передача в производство</div>
-          <h3 class="accounting-system__mini-title">Вы ставите задачу, мы ее решаем</h3>
+          <div class="h2-ip-title-block__discr h2-ip-title-block__discr_blue h2-ip-title-block__discr_accounting-system">формирую первичные документы, оприходования, перемещения, передача в производство</div>
+          <h3 class="accounting-system__mini-title">Вы ставите задачу, я ее решаю</h3>
           <div class="accounting-system__mini-discr">Получаете отлаженный и прозрачный процесс закупок, оптимизированную транспортную и складскую логистику, надежную систему учета и аналитики.</div>
           <form action="#feedback">
             <button class="feedback-section__button button-accounting-system" type="submit">Оставить заявку</button>
@@ -385,12 +385,12 @@
       </div>
     </section>
     <section class="ip-info-section">
-      <h4 class="h1__visually">Снабженец на удаленке</h4>
+      <h4 class="h1__visually">Снабженец на аутсорсинге и удаленке</h4>
       <div class="container ip-info-container">
         <div class="content-block-section">
           <div class="ip-info-discr">
-            Берем на себя полный цикл обеспечения предприятия материалами и комплектующими, проводим анализ цен и условий на рынке, формируем и направляем заявки на закупку поставщикам,
-            отслеживаем сроки и этапы поставок; ведем складской учет, оформляем первичные документы.
+            Беру на себя полный цикл обеспечения предприятия материалами и комплектующими, провожу анализ цен и условий на рынке, формирую и направляю заявки на закупку поставщикам,
+            отслеживаю сроки и этапы поставок, веду складской учет, оформляю первичные документы.
           </div>
         </div>
         <div class="content-block-section" style="width: 400px;"></div>
