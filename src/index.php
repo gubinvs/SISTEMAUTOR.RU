@@ -84,7 +84,7 @@
     <section class="ip-task-section">
       <div class="container ip-task-secrion-container">
         <div class="h2-ip-title-block">
-          <h2 class="ip-h2-section-title">Передайте задачи обеспечения потребности <br>в материалах и комплектующих профессионалу</h2>
+          <h2 class="ip-h2-section-title">Передайте задачу обеспечения <br>материалами и комплектующими профессионалу</h2>
           <div class="fon-h2-block fon-h2-block_red175"> </div>
           <div class="fon-h2-block fon-h2-block_red180"></div>
         </div>
