@@ -65,6 +65,7 @@ ol[class] {
 
 /* Элементы a, у которых нет класса, сбрасываем до дефолтных стилей */
 a:not([class]) {
+  -webkit-text-decoration-skip: ink;
   text-decoration-skip-ink: auto;
 }
 
@@ -652,3 +653,4 @@ section {
     height: 8px;
   }
 }
+/*# sourceMappingURL=sistemautor-style.css.map */
