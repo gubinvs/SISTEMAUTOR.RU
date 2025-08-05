@@ -32,14 +32,14 @@
       <div class="container ip-top-section__container">
         <div class="content-block content-block_ip-title">
           <h1 class="ip-title">Аутсорсинг снабжения - современный и эффективный инструмент</h1>
-          <div class="dark-description-block">от 95 000 рублей в месяц</div>
+          <div class="dark-description-block">от 99 000 рублей в месяц</div>
           <form action="#feedback">
             <button class="button-offer">Получить предложение</button>
           </form>
           <div class="card-block">
             <div class="bordercard">
               <div class="bordercard_bground">
-                <div class="bordercard_bground__discr_number">10+</div>
+                <div class="bordercard_bground__discr_number">20+</div>
                 <div class="bordercard_bground__discr_text">лет на рынке аутсорсинга</div>
               </div>
             </div>
