@@ -909,8 +909,8 @@ h2 {
 
 .ip-info-discr {
   font-size: 14px;
-  font-weight: 300;
-  color: #817C7C;
+  font-weight: 200;
+  color: #1B1E5B;
 }
 
 footer {
@@ -1269,6 +1269,8 @@ footer {
 .cbs-list-contact__item {
   display: flex;
   align-items: center;
+  font-weight: 500;
+  color: #1B1E5B;
 }
 
 .cbs-lc-item__icon {
