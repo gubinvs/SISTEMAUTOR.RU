@@ -84,7 +84,7 @@
     <section class="ip-task-section">
       <div class="container ip-task-secrion-container">
         <div class="h2-ip-title-block">
-          <h2 class="ip-h2-section-title">Передайте задачу обеспечения <br>материалами и комплектующими профессионалам</h2>
+          <h2 class="ip-h2-section-title">Передайте задачу обеспечения материалами <br> и комплектующими профессионалам</h2>
           <div class="fon-h2-block fon-h2-block_red175"> </div>
           <div class="fon-h2-block fon-h2-block_red180"></div>
         </div>
@@ -359,10 +359,10 @@
           </div>
           <h2 class="blue-h2">1С УНФ в подарок</h2>
           <div class="h2-ip-title-block__discr h2-ip-title-block__discr_blue h2-ip-title-block__discr_accounting-system">формируем первичные документы, оприходования, перемещения, передача в производство</div>
-          <h3 class="accounting-system__mini-title">Вы ставите задачу, я ее решаю</h3>
+          <h3 class="accounting-system__mini-title">Вы ставите задачу, мы ее решаем</h3>
           <div class="accounting-system__mini-discr">Получаете отлаженный и прозрачный процесс закупок, оптимизированную транспортную и складскую логистику, надежную систему учета и аналитики.</div>
           <form action="#feedback">
-            <button class="feedback-section__button button-accounting-system" type="submit">Оставить заявку</button>
+            <button class="feedback-section__button button-accounting-system" type="submit">Оформить заявку</button>
           </form>
         </div><img class="accounting-system-img" src="img/snab-page-img/accounting-system_1920.svg" alt="Монитор с открытой 1С">
       </div>
@@ -413,11 +413,17 @@
         <div class="content-block-section">
           <ul class="cbs__list-contact">
             <li class="cbs-list-contact__item">
-              <div class="cbs-lc-item__icon"></div>
+              <img src="img/snab-page-img/icons_group.svg" class="cbs-lc-item__icon">
               <div class="cbs-lc-item__discr">ИП ГУБИН ВЛАДИМИР СЕРГЕЕВИЧ</div>  
             </li>
-            <li class="cbs-list-contact__item">OГРНИП 319595800033673</li>
-            <li class="cbs-list-contact__item">+7 (922) 354-00-43</li>
+            <li class="cbs-list-contact__item">
+              <img src="img/snab-page-img/icons_fullcase.svg" class="cbs-lc-item__icon">
+              <div class="cbs-lc-item__discr">OГРНИП 319595800033673</div>
+            </li>
+            <li class="cbs-list-contact__item">
+              <img src="img/snab-page-img/icons_handsfree.svg" class="cbs-lc-item__icon">
+              <div class="cbs-lc-item__discr">+7 (922) 354-00-43</div>
+            </li>
           </ul>
         </div>
       </div>

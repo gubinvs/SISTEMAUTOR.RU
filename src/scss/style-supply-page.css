@@ -386,8 +386,8 @@ h2 {
 
 .fon-h2-block_red180 {
   top: 55px;
-  left: 535px;
-  width: 263px;
+  left: 308px;
+  width: 286px;
   background-color: #ca540c;
 }
 
@@ -495,8 +495,8 @@ h2 {
   height: 40px;
   border-radius: 10px;
   font-size: 16px;
-  font-weight: 100;
-  color: #ffffff;
+  font-weight: 300;
+  color: #fff;
   background-color: #ca540c;
 }
 
@@ -1264,4 +1264,14 @@ footer {
   position: absolute;
   right: 80px;
   top: 140px;
+}
+
+.cbs-list-contact__item {
+  display: flex;
+  align-items: center;
+}
+
+.cbs-lc-item__icon {
+  width: 30px;
+  margin-right: 20px;
 }/*# sourceMappingURL=style-supply-page.css.map */
