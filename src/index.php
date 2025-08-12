@@ -411,7 +411,14 @@
         </div>
         <div class="content-block-section" style="width: 400px;"></div>
         <div class="content-block-section">
-          <div class="ip-info-discr"> ИП ГУБИН ВЛАДИМИР СЕРГЕЕВИЧ <br> ОГРНИП 319595800033673 <br> +7 (922) 354 00 43</div>
+          <ul class="cbs__list-contact">
+            <li class="cbs-list-contact__item">
+              <div class="cbs-lc-item__icon"></div>
+              <div class="cbs-lc-item__discr">ИП ГУБИН ВЛАДИМИР СЕРГЕЕВИЧ</div>  
+            </li>
+            <li class="cbs-list-contact__item">OГРНИП 319595800033673</li>
+            <li class="cbs-list-contact__item">+7 (922) 354 00 43</li>
+          </ul>
         </div>
       </div>
     </section>
